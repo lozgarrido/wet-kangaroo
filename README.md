@@ -1,2 +1,2 @@
-# wet-kangaroo
-Tell the kangaroos if they're gonna need a raincoat tomorrow
+# wet-kangaroos
+Tell the kangaroos if will need a raincoat tomorrow
